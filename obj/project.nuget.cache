@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHrWTi7jDUYnXEYqJlc7g2Ju67szUPR9mAzgYu4wYuVHLcCJoO1DcTbwujmNkpi2ccotsDy+x7ILQivsU2ry0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thisara\\Downloads\\QuestPDFDraft\\QuestPDFDraft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thisara\\.nuget\\packages\\questpdf\\2024.7.3\\questpdf.2024.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
